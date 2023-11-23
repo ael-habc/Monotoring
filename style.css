@@ -1,0 +1,83 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0 0 20px;
+  background-color: #fff;
+  height: auto;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+nav img {
+  width: 150px;
+  height: auto;
+}
+main {
+  margin-top: 20px;
+  padding: 10px 10px;
+}
+
+.section {
+  width: 250px;
+}
+.tx tr td {
+  padding: 3px;
+  text-align: center;
+  font-size: 12px;
+  vertical-align: middle;
+}
+.containerx {
+    margin:0;
+    width: 100%;
+}
+.ty tr td {
+    padding: 3px;
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+}
+.ty tr {
+    height: 50px;
+}
+.ty tr th {
+    padding: 3px;
+    text-align: center;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+.tx tr td:first-child {
+  color: white;
+  background-color: black;
+}
+
+.tz tr td {
+    padding: 3px;
+    text-align: center;
+    font-size: 12px;
+    vertical-align: middle;
+} 
+ .tz tr:first-child td{
+    color: white;
+    background-color: black;
+}
+.tz tr td:first-child {
+    color: white;
+    background-color: black;
+}
