@@ -30,7 +30,7 @@ nav img {
 }
 main {
   margin-top: 20px;
-  padding: 10px 10px;
+  padding: 10px 40px;
 }
 
 .section {
@@ -43,23 +43,23 @@ main {
   vertical-align: middle;
 }
 .containerx {
-    margin:0;
-    width: 100%;
+  margin: 0;
+  width: 100%;
 }
 .ty tr td {
-    padding: 3px;
-    text-align: center;
-    font-size: 12px;
-    vertical-align: middle;
+  padding: 3px;
+  text-align: center;
+  font-size: 12px;
+  vertical-align: middle;
 }
 .ty tr {
-    height: 50px;
+  height: 50px;
 }
 .ty tr th {
-    padding: 3px;
-    text-align: center;
-    font-size: 14px;
-    vertical-align: middle;
+  padding: 3px;
+  text-align: center;
+  font-size: 14px;
+  vertical-align: middle;
 }
 
 .tx tr td:first-child {
@@ -68,16 +68,16 @@ main {
 }
 
 .tz tr td {
-    padding: 3px;
-    text-align: center;
-    font-size: 12px;
-    vertical-align: middle;
-} 
- .tz tr:first-child td{
-    color: white;
-    background-color: black;
+  padding: 3px;
+  text-align: center;
+  font-size: 12px;
+  vertical-align: middle;
+}
+.tz tr:first-child td {
+  color: white;
+  background-color: black;
 }
 .tz tr td:first-child {
-    color: white;
-    background-color: black;
+  color: white;
+  background-color: black;
 }
